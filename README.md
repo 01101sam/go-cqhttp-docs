@@ -4,7 +4,7 @@
 
 文档目前正在更新, 你可以在
 - <https://ishkong.github.io/go-cqhttp-docs> (预览)
-- <https://docs.go-cqhttp.org> 
+- <https://docs.go-cqhttp.org>sefesfsfs 
 
 查看。
 
